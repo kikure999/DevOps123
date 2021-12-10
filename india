@@ -1,0 +1,17 @@
+  134  cd /DevOps123/DevOps123/
+  135  ls
+  136  ls -ltr
+  137  pwd
+  138  cp -R /Simple-DevOps-Project/* .
+  139  ls
+  140  pwd
+  141  git status
+  142  git add .
+  143  git commit
+  144  git commit -m "simplefiles"
+  145  git remote add origin https://github.com/kikure999/DevOps123.git
+  146   git push origin main
+  147   pwd
+  148  ls
+  149  history 20
+
